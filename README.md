@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LayanaOliveira
 - 🌱 I’m currently learning PHP
-- 📫 Instagram: @lwyaana
+- 📫 Instagram: @layana.queiiroz
 
 <!---
 LayanaOliveira/LayanaOliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
