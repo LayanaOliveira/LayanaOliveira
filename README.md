@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LayanaOliveira
-- 🌱 I’m currently learning PHP
-- 📫 Instagram: @layana.queiiroz
+- 🌱 I’m currently learning JS and React
+- 📫 E-mail: layanaqueiroz9@gmail.com
 
 <!---
 LayanaOliveira/LayanaOliveira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
