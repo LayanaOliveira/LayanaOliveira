@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LayanaOliveira
-- 🌱 I’m currently learning JS and React
+- 🌱 I’m currently learning Laravel
 - 📫 E-mail: layanaqueiroz9@gmail.com
 
 <!---
