@@ -9,7 +9,3 @@ You can click the Preview link to take a look at your changes.
 
 
   
-## Techs and Tools:
-<div align="center">
-  [![My Skills](https://skillicons.dev/icons?i=php,html,css,laravel,mysql)](https://skillicons.dev)
-</div>
