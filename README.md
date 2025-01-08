@@ -7,5 +7,8 @@ LayanaOliveira/LayanaOliveira is a ✨ special ✨ repository because its `READM
 You can click the Preview link to take a look at your changes.
 --->
 
-
-  
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,mysql,python,css,html" />
+  </a>
+</p>
